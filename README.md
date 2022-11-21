@@ -2,4 +2,6 @@
 
 compile on mac both server and client:
 1. gcc -o server ./server.c
-2. 1. gcc -o client ./client.c
+2. gcc -o client ./client.c
+run ./server 
+run ./client
